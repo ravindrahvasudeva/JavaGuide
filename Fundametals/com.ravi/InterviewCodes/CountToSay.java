@@ -27,6 +27,3 @@ class Solution {
     return res;
     }
     }
-/*Input: n = 1
-Output: "1"
-Explanation: This is the base case.*/
