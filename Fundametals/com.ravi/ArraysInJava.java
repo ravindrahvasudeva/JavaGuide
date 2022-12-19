@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class ArraysInJava {
     public static void main(String args[]) {
         // consider if u want to enter student marks which of same data type u create a
@@ -28,7 +29,8 @@ public class ArraysInJava {
 
         //one dimentional array
         int[] marks ={97,98,95};
-
+        
+        //two dimentional array
         int[][] finalmarks={{98,98,95}{90,96,91}}
         System.out.println(finalmarks[0][2]);//op=95 ~Deepindexing
 
@@ -37,4 +39,4 @@ public class ArraysInJava {
     }
 
 }
-//Ravindra H V
+// Ravindra H V
