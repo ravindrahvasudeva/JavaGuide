@@ -17,3 +17,23 @@ public class ArraysInJava {
         // marks[3]=99;
         System.out.println(marks);// o/p =0.
 
+        // length
+        System.out.println(marks.length);// o/p=3.
+
+        // sort
+        System.out.println(marks[0]);//op=95
+        Arrays.sort(marks);
+        System.out.println(marks[0]);//op=92
+
+
+        //one dimentional array
+        int[] marks ={97,98,95};
+
+        int[][] finalmarks={{98,98,95}{90,96,91}}
+        System.out.println(finalmarks[0][2]);//op=95 ~Deepindexing
+
+
+
+    }
+
+}
