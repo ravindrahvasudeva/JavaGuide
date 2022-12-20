@@ -12,16 +12,11 @@ public class Casting {
         int fp =p+18.0; //error we cannot convert higher priority datatype to a lesser one there will be data loss
 
         //explicit casting
-        int p =100;
-        int fp =p+(int)18.0;//we have converted double to int by  type casting
-
-
-
-
-
-        
-
+        int pZ =100;
+        int fpZ =p+(int)18.11;//we have converted double to int by  type casting
+        //O/P=118
 
     }
     
 }
+//Ravindra H V
