@@ -28,3 +28,13 @@ int i = 0, j = 0, k = n - 1;
         
         
         
+/*Input: 
+n = 4, arr1[] = [1 3 5 7] 
+m = 5, arr2[] = [0 2 6 8 9]
+Output: 
+arr1[] = [0 1 2 3]
+arr2[] = [5 6 7 8 9]
+Explanation:
+After merging the two 
+non-decreasing arrays, we get, 
+0 1 2 3 5 6 7 8 9.*/
