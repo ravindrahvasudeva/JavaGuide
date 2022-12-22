@@ -4,5 +4,10 @@ public class Constants {
         int age =10;//mutable
         age =15;
         age=30;//o/p=30
+
+
+        //immutable 
+        
+   
     }
 }
