@@ -7,7 +7,9 @@ public class Constants {
 
 
         //immutable 
-        
+             //we will name usually name a final variable in capital format
+             final Float PI = 3.14F;
+             PI = 3;//o/p=cannot change final method {error}
    
     }
 }
