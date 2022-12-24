@@ -24,4 +24,13 @@ public class ChocolateDistributionProblem {
         }
         return min_diff;
     }
-    
+    public static void main(String[] args)
+    {
+        int arr[] = { 5,1,3,56,11,12,75,16,20,18 };
+ 
+        int m = 5; 
+ 
+        int n = arr.length;
+        System.out.println("Minimum difference in ChocolateDistributionProblem is " + findMD(arr, n, m));
+    }
+}
