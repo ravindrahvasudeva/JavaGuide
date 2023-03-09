@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="InterviewCodes/" kind="src" path="Fundametals/com.ravi"/>
+	<classpathentry kind="src" path="Fundametals/com.ravi/InterviewCodes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
